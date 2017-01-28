@@ -1,0 +1,3 @@
+[submodule "lib/9pfs"]
+	path = lib/9pfs
+	url = https://github.com/mischief/9pfs
